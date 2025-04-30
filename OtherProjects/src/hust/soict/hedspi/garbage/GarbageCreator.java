@@ -1,4 +1,4 @@
-package hust.soict.hedspi.garbage;
+/*package hust.soict.hedspi.garbage;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -20,3 +20,4 @@ public class GarbageCreator {
         System.out.println(endTime - startTime);
     }
 }
+*/
